@@ -1,13 +1,11 @@
 ### Hi there 👋
 -  Eu sou João.
 -  Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
--  
 ## Linguagens e Ferramentas que eu uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&log.o=css3&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![React Native](https://img.shields.io/badge/-ReactNative-0A2930?style=flat&logo=React&logoColor=2ECFF2)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
