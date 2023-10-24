@@ -1,11 +1,7 @@
 ### Hi there 👋
 -  Eu sou João.
 -  Atualmente, estou cursando o tec analise e desenvolvimento de sistemas no SESI-SENAI.
-
-## Estatísticas do Meu Perfil
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cesar-Zanellato&show_icons=true&theme=transparent)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cesar-Zanellato&layout=compact&theme=transparent)](https://github.com/Cesar-Zanellato)
-
+-  
 ## Linguagens e Ferramentas que eu uso
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
